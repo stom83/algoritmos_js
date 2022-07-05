@@ -29,5 +29,6 @@ if (open == true) { // Local abierto
 } else {
   console.log("Local cerrado, vuelve más tarde");
 }
+// Mil disculpas por el Ingles Profe aun estoy aprendiendo jejeje
 
 
